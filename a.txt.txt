@@ -1,1 +1,2 @@
-hi hello
+hello Git
+아무거나 막 적어보세요!!
